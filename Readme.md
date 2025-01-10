@@ -23,5 +23,5 @@ or
 
 Download the Lockmaster.exe from dist folder:
    ```bash
-   git clone https://github.com/yourusername/LockMaster.git
+   https://github.com/yourusername/LockMaster.git](https://raw.githubusercontent.com/xnammu/LockMaster/refs/heads/main/dist/LockMaster.exe
    ```
